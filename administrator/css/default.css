@@ -1,0 +1,240 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-family: "Arial";
+}
+
+
+/*
+ *	FORM LOGIN
+ */
+div#login-box {
+	margin: 150px auto 0;
+	padding: 10px;
+	width: 250px;
+	border: 3px solid #ccc;
+}
+div#login-box h2 {
+	margin-bottom: 10px;
+	padding: 5px 0;
+	border-bottom: 1px solid #333;
+}
+form#form-login {
+	margin: 0;
+	padding: 0	
+}
+form#form-login label {
+	padding: 5px 0;
+	display: block;
+	font-size: 13px;
+}
+form#form-login input[type="text"],
+form#form-login input[type="password"] {
+	margin-bottom: 10px;
+	padding: 5px;
+	width: 94%;
+	border: 1px solid #ccc;
+}
+form#form-login input[type="submit"] {
+	padding: 5px 10px;
+	border: 2px solid #ccc;
+	background-color: #ddd;
+	cursor: pointer;
+}
+form#form-login input[type="submit"]:hover {
+	background-color: #ccc;
+}
+
+
+/*
+ *	HEADER
+ */
+div#header {
+	margin: 0;
+	padding: 0;
+	background-color: #333;
+	position: fixed;
+	z-index: 999;
+	width: 100%;
+}
+div#header h2 {
+	margin-left: 30px;
+	padding: 15px 0;
+}
+div#header a:link,
+div#header a:visited {
+	color: #fff;
+	text-decoration: none;
+}
+div#header a:hover {
+	color: #ddd;
+}
+
+/*
+ *	SIDEBAR
+ */
+div#sidebar {
+	width: 240px;
+	position: fixed;
+	top: 60px;
+	bottom: 0;
+	left: 0;
+	background-color: #e5e5e5;
+}
+ul#menu {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+ul#menu li {
+	display: block;
+}
+ul#menu li a:link,
+ul#menu li a:visited {
+	padding: 10px 20px;
+	display: block;
+	text-decoration: none;
+	color: #333;
+	border-bottom: 1px solid #ccc;
+}
+ul#menu li a:hover {
+	background-color: #ccc;
+}
+
+
+/*
+ *	CONTENT
+ */
+div#content {
+	margin-left: 250px;
+	padding: 70px 40px 10px 20px;
+	position: relative;
+	clear: both;
+	font-size: 14px;
+}
+div#content h3 {
+	margin-bottom: 20px;
+	padding: 10px 0;
+	font-size: 16px;
+	border-bottom: 1px solid #ccc;
+}
+
+
+/*
+ *	DATA TABLE
+ */
+div.table-responsive {
+	margin: 15px 0;
+	padding: 10px;
+	border: 2px solid #ccc;
+	display: block;
+}
+div.table-responsive a:link,
+div.table-responsive a:visited {
+	text-decoration: none;
+	color: blue;
+}
+table.data-table {
+	border-collapse: collapse;
+	border: 1px solid #ccc;
+}
+table.data-table td {
+	border: 1px solid #ccc;
+}
+.btn {
+	margin: 0 0 15px;
+	padding: 5px 10px;
+	border: 1px solid #000ff2;
+	background-color: #099ff2;
+	cursor: pointer;
+	diplay: block;
+	clear: both;
+	color: #fff;
+	text-decoration: none;
+}
+.btn:hover {
+	background-color: #000ff2;
+	color: #fff;
+}
+
+
+
+
+/*
+ * VIEW DATA
+ */
+div#menu {
+	position: absolute;
+	top: 70px;
+	left: 20px;
+	width: 230px;
+}
+div#menu > h4 {
+	margin-bottom: 5px;
+	padding: 10px 0;
+	border-bottom: 1px solid #ccc;
+}
+div#photo-proflie {
+	margin: 0;
+	padding: 0;
+	width: 98%;
+	text-align: center;
+}
+div#photo-proflie img {
+	margin: 0;
+	padding: 0;
+	border: 2px solid #555;
+	max-width: 170px;
+}
+
+div.content {
+	margin-left: 250px;
+	padding: 0 20px 15px;
+	border-left: 1px solid #ccc;
+	min-height: 600px;
+    
+}
+div.content > h4 {
+	margin-bottom: 5px;
+	padding: 10px 0;
+	border-bottom: 1px solid #ccc;
+}
+div.content > h5 {
+	padding: 5px 0;
+}
+div.content p {
+	margin-bottom: 15px;
+	text-align: justify;
+}
+
+
+/*
+ *	TABLE DETAIL
+ */
+table#detail {
+	width: 100%;
+}
+table#detail td {
+	padding: 5px;
+}
+
+/*
+ *	JOB TABLE
+ */
+table.profile {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+}
+table.profile th {
+	padding: 10px 0 20px;
+	text-align: right;
+}
+table.profile td {
+	padding: 3px 0;
+	vertical-align: top;
+}
+table.profile td.label {
+	width: 130px;
+	color: #777;
+}

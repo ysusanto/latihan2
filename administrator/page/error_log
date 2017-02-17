@@ -1,0 +1,3 @@
+[13-Jul-2015 07:11:38 UTC] PHP Warning:  include_once(../mpdf60/mpdf.php): failed to open stream: No such file or directory in /home/k3477807/public_html/administrator/page/print-seeker.php on line 3
+[13-Jul-2015 07:11:38 UTC] PHP Warning:  include_once(): Failed opening '../mpdf60/mpdf.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/k3477807/public_html/administrator/page/print-seeker.php on line 3
+[13-Jul-2015 07:11:38 UTC] PHP Fatal error:  Class 'mPDF' not found in /home/k3477807/public_html/administrator/page/print-seeker.php on line 5

@@ -1,0 +1,39 @@
+div#pajinate {
+	margin: 0;
+	padding: 0;
+	position: relative;
+}
+div.alt_page_navigation {
+	margin: 20px 10px 10px 0;
+	padding: 0;
+	display: block;
+	width: 100%;
+	float: none;
+	position: relative;
+	text-align: right;
+}
+
+@media (max-width:767px) {
+	div.alt_page_navigation {
+		margin: 30px auto 10px;
+		padding: 0;
+		display: block;
+		width: 100%;
+		text-align: center;
+	}
+}
+
+.page_navigation a, .alt_page_navigation a{
+	padding: 4px 6px;
+	margin: 2px;
+	color: #333;
+	text-decoration:none;
+	font-family: Tahoma;
+	font-size: 11px;
+/* 	background: linear-gradient(#ccc,#eee); */
+	border: 1px solid #ccc;
+}
+.active_page{
+	color: #fff !important;
+	background-color: #0f5fb9;
+}	

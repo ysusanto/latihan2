@@ -1,0 +1,17 @@
+[03-Jun-2015 03:27:19 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/k3477807/public_html/administrator/page/package.php on line 22
+[03-Jun-2015 03:27:21 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/k3477807/public_html/administrator/page/seeker.php on line 24
+[03-Jun-2015 03:27:23 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/k3477807/public_html/administrator/page/employer.php on line 26
+[03-Jun-2015 03:27:24 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/k3477807/public_html/administrator/page/seeker.php on line 24
+[03-Jun-2015 03:27:30 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/k3477807/public_html/administrator/page/seeker.php on line 24
+[03-Jun-2015 03:27:32 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/k3477807/public_html/administrator/page/employer.php on line 26
+[03-Jun-2015 03:49:01 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/k3477807/public_html/administrator/page/seeker.php on line 24
+[03-Jun-2015 03:49:13 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/k3477807/public_html/administrator/page/employer.php on line 26
+[03-Jun-2015 13:34:41 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/k3477807/public_html/administrator/page/seeker.php on line 24
+[03-Jun-2015 13:34:43 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/k3477807/public_html/administrator/page/seeker.php on line 24
+[15-Jul-2015 04:12:36 UTC] PHP Parse error:  syntax error, unexpected 'button' (T_STRING), expecting ',' or ';' in /home/k3477807/public_html/administrator/page/employer.php on line 35
+[15-Jul-2015 04:14:27 UTC] PHP Parse error:  syntax error, unexpected 'true' (T_STRING), expecting ',' or ';' in /home/k3477807/public_html/administrator/page/employer.php on line 35
+[15-Jul-2015 04:20:15 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/k3477807/public_html/administrator/page/employer.php on line 35
+[15-Jul-2015 08:50:39 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/k3477807/public_html/administrator/page/employer.php on line 36
+[18-Jul-2015 02:12:56 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/k3477807/public_html/administrator/page/employer.php on line 121
+[18-Jul-2015 02:26:51 UTC] PHP Warning:  include_once(page/addprusahaanmodal.php): failed to open stream: No such file or directory in /home/k3477807/public_html/administrator/dashboard.php on line 91
+[18-Jul-2015 02:26:51 UTC] PHP Warning:  include_once(): Failed opening 'page/addprusahaanmodal.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/k3477807/public_html/administrator/dashboard.php on line 91

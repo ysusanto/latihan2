@@ -1,0 +1,6 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^sio\.kursuskerja\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.sio\.kursuskerja\.com$
+RewriteRule ^/?$ "http\:\/\/sio\.kursuskerja\.com" [R=301,L]
+

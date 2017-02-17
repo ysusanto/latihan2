@@ -1,0 +1,6 @@
+
+RewriteEngine on
+
+RewriteCond %{HTTP_HOST} ^www\.kursuskerja\.com$
+RewriteRule ^jobseeker\/?(.*)$ "http\:\/\/kursuskerja\.com\/$1" [R=301,L]
+

@@ -1,0 +1,147 @@
+[10-Apr-2015 23:15:24 America/New_York] PHP Parse error:  syntax error, unexpected '$db' (T_VARIABLE) in /home/k3477807/public_html/jobseeker/application/config/database.php on line 52
+[23-Apr-2015 14:21:13 Asia/Jakarta] PHP Fatal error:  Call to a member function SaveRegister() on a non-object in /home/k3477807/public_html/jobseeker/application/controllers/registerlogin.php on line 46
+[23-Apr-2015 15:01:13 Asia/Jakarta] PHP Fatal error:  Call to a member function query() on a non-object in /home/k3477807/public_html/jobseeker/application/models/registerlogin_model.php on line 24
+[23-Apr-2015 15:06:16 Asia/Jakarta] PHP Fatal error:  Call to a member function query() on a non-object in /home/k3477807/public_html/jobseeker/application/models/registerlogin_model.php on line 24
+[23-Apr-2015 15:12:28 Asia/Jakarta] PHP Fatal error:  Call to undefined method db_load::generate_id() in /home/k3477807/public_html/jobseeker/application/models/registerlogin_model.php on line 30
+[23-Apr-2015 15:18:08 Asia/Jakarta] PHP Fatal error:  Call to undefined method db_load::generate_id() in /home/k3477807/public_html/jobseeker/application/models/registerlogin_model.php on line 30
+[23-Apr-2015 15:18:20 Asia/Jakarta] PHP Fatal error:  Call to undefined method db_load::generate_id() in /home/k3477807/public_html/jobseeker/application/models/registerlogin_model.php on line 30
+[23-Apr-2015 15:19:36 Asia/Jakarta] PHP Fatal error:  Call to undefined method db_load::generate_id() in /home/k3477807/public_html/jobseeker/application/models/registerlogin_model.php on line 30
+[26-Apr-2015 13:19:53 Asia/Jakarta] PHP Fatal error:  Call to undefined method registerlogin_model::ChekLogin() in /home/k3477807/public_html/jobseeker/application/controllers/registerlogin.php on line 58
+[26-Apr-2015 13:21:01 Asia/Jakarta] PHP Fatal error:  Call to undefined method registerlogin_model::ChekLogin() in /home/k3477807/public_html/jobseeker/application/controllers/registerlogin.php on line 58
+[26-Apr-2015 13:22:18 Asia/Jakarta] PHP Fatal error:  Call to undefined method registerlogin_model::ChekLogin() in /home/k3477807/public_html/jobseeker/application/controllers/registerlogin.php on line 58
+[26-Apr-2015 13:25:06 Asia/Jakarta] PHP Fatal error:  Call to undefined method registerlogin_model::ChekLogin() in /home/k3477807/public_html/jobseeker/application/controllers/registerlogin.php on line 58
+[26-Apr-2015 13:30:22 Asia/Jakarta] PHP Fatal error:  Call to undefined method registerlogin_model::ChekLogin() in /home/k3477807/public_html/jobseeker/application/controllers/registerlogin.php on line 59
+[27-Apr-2015 19:24:31 Asia/Jakarta] PHP Fatal error:  Call to undefined method home::loadMainModule() in /home/k3477807/public_html/jobseeker/application/controllers/home.php on line 159
+[27-Apr-2015 19:24:35 Asia/Jakarta] PHP Fatal error:  Call to undefined method home::loadMainModule() in /home/k3477807/public_html/jobseeker/application/controllers/home.php on line 159
+[27-Apr-2015 19:24:37 Asia/Jakarta] PHP Fatal error:  Call to undefined method home::loadMainModule() in /home/k3477807/public_html/jobseeker/application/controllers/home.php on line 159
+[27-Apr-2015 19:24:40 Asia/Jakarta] PHP Fatal error:  Call to undefined method home::loadMainModule() in /home/k3477807/public_html/jobseeker/application/controllers/home.php on line 159
+[27-Apr-2015 19:26:14 Asia/Jakarta] PHP Fatal error:  Call to undefined method home::loadMainModule() in /home/k3477807/public_html/jobseeker/application/controllers/home.php on line 159
+[27-Apr-2015 19:26:15 Asia/Jakarta] PHP Fatal error:  Call to undefined method home::loadMainModule() in /home/k3477807/public_html/jobseeker/application/controllers/home.php on line 159
+[27-Apr-2015 19:26:17 Asia/Jakarta] PHP Fatal error:  Call to undefined method home::loadMainModule() in /home/k3477807/public_html/jobseeker/application/controllers/home.php on line 159
+[27-Apr-2015 19:32:58 Asia/Jakarta] PHP Fatal error:  Call to undefined method home::loadMainModule() in /home/k3477807/public_html/jobseeker/application/controllers/home.php on line 159
+[27-Apr-2015 19:33:03 Asia/Jakarta] PHP Fatal error:  Call to undefined method home::loadMainModule() in /home/k3477807/public_html/jobseeker/application/controllers/home.php on line 159
+[27-Apr-2015 19:33:04 Asia/Jakarta] PHP Fatal error:  Call to undefined method home::loadMainModule() in /home/k3477807/public_html/jobseeker/application/controllers/home.php on line 159
+[27-Apr-2015 19:33:11 Asia/Jakarta] PHP Fatal error:  Call to undefined method home::loadMainModule() in /home/k3477807/public_html/jobseeker/application/controllers/home.php on line 159
+[27-Apr-2015 19:33:27 Asia/Jakarta] PHP Fatal error:  Call to undefined method home::loadMainModule() in /home/k3477807/public_html/jobseeker/application/controllers/home.php on line 159
+[27-Apr-2015 20:00:37 Asia/Jakarta] PHP Fatal error:  Call to undefined method home::loadMainModule() in /home/k3477807/public_html/jobseeker/application/controllers/home.php on line 159
+[27-Apr-2015 20:00:41 Asia/Jakarta] PHP Fatal error:  Call to undefined method home::loadMainModule() in /home/k3477807/public_html/jobseeker/application/controllers/home.php on line 159
+[27-Apr-2015 20:00:46 Asia/Jakarta] PHP Fatal error:  Call to undefined method home::loadMainModule() in /home/k3477807/public_html/jobseeker/application/controllers/home.php on line 159
+[27-Apr-2015 20:00:58 Asia/Jakarta] PHP Fatal error:  Call to undefined method home::loadMainModule() in /home/k3477807/public_html/jobseeker/application/controllers/home.php on line 159
+[27-Apr-2015 20:01:00 Asia/Jakarta] PHP Fatal error:  Call to undefined method home::loadMainModule() in /home/k3477807/public_html/jobseeker/application/controllers/home.php on line 159
+[27-Apr-2015 20:01:03 Asia/Jakarta] PHP Fatal error:  Call to undefined method home::loadMainModule() in /home/k3477807/public_html/jobseeker/application/controllers/home.php on line 159
+[27-Apr-2015 20:01:07 Asia/Jakarta] PHP Fatal error:  Call to undefined method home::loadMainModule() in /home/k3477807/public_html/jobseeker/application/controllers/home.php on line 123
+[27-Apr-2015 20:01:09 Asia/Jakarta] PHP Fatal error:  Call to undefined method home::loadMainModule() in /home/k3477807/public_html/jobseeker/application/controllers/home.php on line 104
+[27-Apr-2015 20:01:14 Asia/Jakarta] PHP Fatal error:  Call to undefined method home::loadMainModule() in /home/k3477807/public_html/jobseeker/application/controllers/home.php on line 141
+[27-Apr-2015 20:03:31 Asia/Jakarta] PHP Fatal error:  Call to undefined method home::loadMainModule() in /home/k3477807/public_html/jobseeker/application/controllers/home.php on line 159
+[27-Apr-2015 20:03:56 Asia/Jakarta] PHP Fatal error:  Call to undefined method home::loadMainModule() in /home/k3477807/public_html/jobseeker/application/controllers/home.php on line 159
+[27-Apr-2015 20:06:00 Asia/Jakarta] PHP Fatal error:  Call to undefined method home::loadMainModule() in /home/k3477807/public_html/jobseeker/application/controllers/home.php on line 159
+[27-Apr-2015 20:06:03 Asia/Jakarta] PHP Fatal error:  Call to undefined method home::loadMainModule() in /home/k3477807/public_html/jobseeker/application/controllers/home.php on line 159
+[27-Apr-2015 20:06:04 Asia/Jakarta] PHP Fatal error:  Call to undefined method home::loadMainModule() in /home/k3477807/public_html/jobseeker/application/controllers/home.php on line 159
+[27-Apr-2015 20:06:16 Asia/Jakarta] PHP Fatal error:  Call to undefined method home::loadMainModule() in /home/k3477807/public_html/jobseeker/application/controllers/home.php on line 159
+[27-Apr-2015 20:06:20 Asia/Jakarta] PHP Fatal error:  Call to undefined method home::loadMainModule() in /home/k3477807/public_html/jobseeker/application/controllers/home.php on line 159
+[27-Apr-2015 20:06:41 Asia/Jakarta] PHP Fatal error:  Call to undefined method home::loadMainModule() in /home/k3477807/public_html/jobseeker/application/controllers/home.php on line 159
+[27-Apr-2015 20:06:42 Asia/Jakarta] PHP Fatal error:  Call to undefined method home::loadMainModule() in /home/k3477807/public_html/jobseeker/application/controllers/home.php on line 159
+[27-Apr-2015 20:06:44 Asia/Jakarta] PHP Fatal error:  Call to undefined method home::loadMainModule() in /home/k3477807/public_html/jobseeker/application/controllers/home.php on line 159
+[27-Apr-2015 20:16:29 Asia/Jakarta] PHP Fatal error:  Call to undefined method home::loadMainModule() in /home/k3477807/public_html/jobseeker/application/controllers/home.php on line 159
+[27-Apr-2015 20:43:57 Asia/Jakarta] PHP Fatal error:  Call to undefined method home::loadMainModule() in /home/k3477807/public_html/jobseeker/application/controllers/home.php on line 159
+[27-Apr-2015 20:44:01 Asia/Jakarta] PHP Fatal error:  Call to undefined method home::loadMainModule() in /home/k3477807/public_html/jobseeker/application/controllers/home.php on line 159
+[27-Apr-2015 20:44:15 Asia/Jakarta] PHP Fatal error:  Call to undefined method home::loadMainModule() in /home/k3477807/public_html/jobseeker/application/controllers/home.php on line 159
+[27-Apr-2015 20:44:30 Asia/Jakarta] PHP Fatal error:  Call to undefined method home::loadMainModule() in /home/k3477807/public_html/jobseeker/application/controllers/home.php on line 141
+[01-May-2015 13:06:04 Asia/Jakarta] PHP Fatal error:  Call to a member function view_kursus() on a non-object in /home/k3477807/public_html/jobseeker/application/controllers/home.php on line 124
+[01-May-2015 13:11:21 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/k3477807/public_html/jobseeker/application/views/update_kursus.php on line 167
+[01-May-2015 13:11:33 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/k3477807/public_html/jobseeker/application/views/update_kursus.php on line 167
+[01-May-2015 13:12:34 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/k3477807/public_html/jobseeker/application/views/update_kursus.php on line 167
+[01-May-2015 13:13:32 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/k3477807/public_html/jobseeker/application/views/update_kursus.php on line 167
+[01-May-2015 13:14:33 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/k3477807/public_html/jobseeker/application/views/update_kursus.php on line 167
+[01-May-2015 13:14:35 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/k3477807/public_html/jobseeker/application/views/update_kursus.php on line 167
+[01-May-2015 16:33:15 Asia/Jakarta] PHP Fatal error:  Call to undefined method home::loadMainModule() in /home/k3477807/public_html/jobseeker/application/controllers/home.php on line 86
+[01-May-2015 17:59:40 Asia/Jakarta] PHP Fatal error:  Call to undefined method home::loadMainModule() in /home/k3477807/public_html/jobseeker/application/controllers/home.php on line 105
+[01-May-2015 17:59:44 Asia/Jakarta] PHP Fatal error:  Call to undefined method home::loadMainModule() in /home/k3477807/public_html/jobseeker/application/controllers/home.php on line 146
+[01-May-2015 21:13:26 Asia/Jakarta] PHP Fatal error:  Call to undefined method home::loadMainModule() in /home/k3477807/public_html/jobseeker/application/controllers/home.php on line 86
+[01-May-2015 21:13:32 Asia/Jakarta] PHP Fatal error:  Call to undefined method home::loadMainModule() in /home/k3477807/public_html/jobseeker/application/controllers/home.php on line 86
+[01-May-2015 21:13:42 Asia/Jakarta] PHP Fatal error:  Call to undefined method home::loadMainModule() in /home/k3477807/public_html/jobseeker/application/controllers/home.php on line 86
+[20-May-2015 21:18:33 Asia/Jakarta] PHP Fatal error:  Call to undefined method home::loadMainModule() in /home/k3477807/public_html/jobseeker/application/controllers/home.php on line 86
+[20-May-2015 21:19:39 Asia/Jakarta] PHP Fatal error:  Call to undefined method home::loadMainModule() in /home/k3477807/public_html/jobseeker/application/controllers/home.php on line 86
+[20-May-2015 21:19:55 Asia/Jakarta] PHP Fatal error:  Call to undefined method home::loadMainModule() in /home/k3477807/public_html/jobseeker/application/controllers/home.php on line 86
+[20-May-2015 21:20:13 Asia/Jakarta] PHP Fatal error:  Call to undefined method home::loadMainModule() in /home/k3477807/public_html/jobseeker/application/controllers/home.php on line 105
+[20-May-2015 21:20:16 Asia/Jakarta] PHP Fatal error:  Call to undefined method home::loadMainModule() in /home/k3477807/public_html/jobseeker/application/controllers/home.php on line 146
+[23-May-2015 08:43:05 Asia/Jakarta] PHP Fatal error:  Call to undefined method home::loadMainModule() in /home/k3477807/public_html/jobseeker/application/controllers/home.php on line 86
+[23-May-2015 10:54:37 Asia/Jakarta] PHP Fatal error:  Call to undefined method home::loadMainModule() in /home/k3477807/public_html/jobseeker/application/controllers/home.php on line 105
+[23-May-2015 10:54:40 Asia/Jakarta] PHP Fatal error:  Call to undefined method home::loadMainModule() in /home/k3477807/public_html/jobseeker/application/controllers/home.php on line 146
+[23-May-2015 10:55:02 Asia/Jakarta] PHP Fatal error:  Call to undefined method home::loadMainModule() in /home/k3477807/public_html/jobseeker/application/controllers/home.php on line 105
+[23-May-2015 11:21:14 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/k3477807/public_html/jobseeker/application/models/profile_model.php on line 138
+[23-May-2015 11:21:20 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/k3477807/public_html/jobseeker/application/models/profile_model.php on line 138
+[23-May-2015 11:21:25 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/k3477807/public_html/jobseeker/application/models/profile_model.php on line 138
+[23-May-2015 11:21:39 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/k3477807/public_html/jobseeker/application/models/profile_model.php on line 138
+[23-May-2015 11:22:12 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/k3477807/public_html/jobseeker/application/models/profile_model.php on line 138
+[23-May-2015 11:22:17 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/k3477807/public_html/jobseeker/application/models/profile_model.php on line 138
+[23-May-2015 11:22:21 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/k3477807/public_html/jobseeker/application/models/profile_model.php on line 138
+[23-May-2015 11:22:26 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/k3477807/public_html/jobseeker/application/models/profile_model.php on line 138
+[23-May-2015 11:22:27 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/k3477807/public_html/jobseeker/application/models/profile_model.php on line 138
+[23-May-2015 11:22:27 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/k3477807/public_html/jobseeker/application/models/profile_model.php on line 138
+[23-May-2015 11:22:28 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/k3477807/public_html/jobseeker/application/models/profile_model.php on line 138
+[23-May-2015 11:22:28 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/k3477807/public_html/jobseeker/application/models/profile_model.php on line 138
+[23-May-2015 11:22:28 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/k3477807/public_html/jobseeker/application/models/profile_model.php on line 138
+[23-May-2015 11:22:28 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/k3477807/public_html/jobseeker/application/models/profile_model.php on line 138
+[23-May-2015 11:22:28 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/k3477807/public_html/jobseeker/application/models/profile_model.php on line 138
+[23-May-2015 11:22:28 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/k3477807/public_html/jobseeker/application/models/profile_model.php on line 138
+[23-May-2015 11:22:28 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/k3477807/public_html/jobseeker/application/models/profile_model.php on line 138
+[23-May-2015 11:22:28 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/k3477807/public_html/jobseeker/application/models/profile_model.php on line 138
+[23-May-2015 11:22:28 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/k3477807/public_html/jobseeker/application/models/profile_model.php on line 138
+[23-May-2015 11:22:28 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/k3477807/public_html/jobseeker/application/models/profile_model.php on line 138
+[23-May-2015 11:22:28 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/k3477807/public_html/jobseeker/application/models/profile_model.php on line 138
+[23-May-2015 11:22:28 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/k3477807/public_html/jobseeker/application/models/profile_model.php on line 138
+[23-May-2015 11:22:28 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/k3477807/public_html/jobseeker/application/models/profile_model.php on line 138
+[23-May-2015 11:22:28 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/k3477807/public_html/jobseeker/application/models/profile_model.php on line 138
+[23-May-2015 11:22:28 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/k3477807/public_html/jobseeker/application/models/profile_model.php on line 138
+[23-May-2015 11:22:28 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/k3477807/public_html/jobseeker/application/models/profile_model.php on line 138
+[23-May-2015 11:22:28 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/k3477807/public_html/jobseeker/application/models/profile_model.php on line 138
+[23-May-2015 11:22:28 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/k3477807/public_html/jobseeker/application/models/profile_model.php on line 138
+[23-May-2015 11:22:28 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/k3477807/public_html/jobseeker/application/models/profile_model.php on line 138
+[23-May-2015 11:22:28 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/k3477807/public_html/jobseeker/application/models/profile_model.php on line 138
+[23-May-2015 11:22:28 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/k3477807/public_html/jobseeker/application/models/profile_model.php on line 138
+[23-May-2015 11:22:29 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/k3477807/public_html/jobseeker/application/models/profile_model.php on line 138
+[23-May-2015 11:22:29 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/k3477807/public_html/jobseeker/application/models/profile_model.php on line 138
+[23-May-2015 11:22:29 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/k3477807/public_html/jobseeker/application/models/profile_model.php on line 138
+[23-May-2015 11:22:29 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/k3477807/public_html/jobseeker/application/models/profile_model.php on line 138
+[23-May-2015 11:22:30 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/k3477807/public_html/jobseeker/application/models/profile_model.php on line 138
+[23-May-2015 11:22:30 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/k3477807/public_html/jobseeker/application/models/profile_model.php on line 138
+[23-May-2015 11:22:30 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/k3477807/public_html/jobseeker/application/models/profile_model.php on line 138
+[23-May-2015 11:22:30 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/k3477807/public_html/jobseeker/application/models/profile_model.php on line 138
+[23-May-2015 11:22:30 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/k3477807/public_html/jobseeker/application/models/profile_model.php on line 138
+[23-May-2015 11:22:31 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/k3477807/public_html/jobseeker/application/models/profile_model.php on line 138
+[23-May-2015 11:22:31 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/k3477807/public_html/jobseeker/application/models/profile_model.php on line 138
+[23-May-2015 11:22:31 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/k3477807/public_html/jobseeker/application/models/profile_model.php on line 138
+[23-May-2015 11:22:31 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/k3477807/public_html/jobseeker/application/models/profile_model.php on line 138
+[23-May-2015 11:22:32 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/k3477807/public_html/jobseeker/application/models/profile_model.php on line 138
+[23-May-2015 11:22:32 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/k3477807/public_html/jobseeker/application/models/profile_model.php on line 138
+[23-May-2015 11:22:32 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/k3477807/public_html/jobseeker/application/models/profile_model.php on line 138
+[23-May-2015 11:22:32 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/k3477807/public_html/jobseeker/application/models/profile_model.php on line 138
+[23-May-2015 11:22:37 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/k3477807/public_html/jobseeker/application/models/profile_model.php on line 138
+[24-May-2015 19:25:39 Asia/Jakarta] PHP Fatal error:  Call to undefined method CI_Session::userdate() in /home/k3477807/public_html/jobseeker/application/controllers/home.php on line 186
+[24-May-2015 19:26:11 Asia/Jakarta] PHP Fatal error:  Call to undefined method CI_Session::userdate() in /home/k3477807/public_html/jobseeker/application/controllers/home.php on line 186
+[24-May-2015 19:32:14 Asia/Jakarta] PHP Fatal error:  Call to undefined method CI_Session::userdate() in /home/k3477807/public_html/jobseeker/application/controllers/home.php on line 186
+[24-May-2015 19:32:25 Asia/Jakarta] PHP Fatal error:  Call to undefined method CI_Session::userdate() in /home/k3477807/public_html/jobseeker/application/controllers/home.php on line 186
+[24-May-2015 19:41:16 Asia/Jakarta] PHP Fatal error:  Call to undefined method CI_Session::userdate() in /home/k3477807/public_html/jobseeker/application/controllers/home.php on line 186
+[24-May-2015 19:41:29 Asia/Jakarta] PHP Fatal error:  Call to undefined method CI_Session::userdate() in /home/k3477807/public_html/jobseeker/application/controllers/home.php on line 186
+[24-May-2015 19:52:02 Asia/Jakarta] PHP Fatal error:  Call to undefined method CI_Session::userdate() in /home/k3477807/public_html/jobseeker/application/controllers/home.php on line 186
+[25-May-2015 18:37:31 Asia/Jakarta] PHP Fatal error:  Call to undefined method CI_Session::userdate() in /home/k3477807/public_html/jobseeker/application/controllers/home.php on line 186
+[25-May-2015 18:39:17 Asia/Jakarta] PHP Fatal error:  Call to undefined method CI_Session::userdate() in /home/k3477807/public_html/jobseeker/application/controllers/home.php on line 186
+[25-May-2015 18:39:27 Asia/Jakarta] PHP Fatal error:  Call to undefined method CI_Session::userdate() in /home/k3477807/public_html/jobseeker/application/controllers/home.php on line 186
+[25-May-2015 18:41:15 Asia/Jakarta] PHP Fatal error:  Call to undefined method CI_Session::userdate() in /home/k3477807/public_html/jobseeker/application/controllers/home.php on line 187
+[25-May-2015 18:41:40 Asia/Jakarta] PHP Fatal error:  Call to undefined method CI_Session::userdate() in /home/k3477807/public_html/jobseeker/application/controllers/home.php on line 187
+[25-May-2015 18:42:15 Asia/Jakarta] PHP Fatal error:  Call to undefined method CI_Session::userdate() in /home/k3477807/public_html/jobseeker/application/controllers/home.php on line 187
+[25-May-2015 18:43:24 Asia/Jakarta] PHP Fatal error:  Call to undefined method CI_Session::userdate() in /home/k3477807/public_html/jobseeker/application/controllers/home.php on line 188
+[25-May-2015 18:45:23 Asia/Jakarta] PHP Fatal error:  Call to undefined method CI_Session::userdate() in /home/k3477807/public_html/jobseeker/application/controllers/home.php on line 188
+[25-May-2015 18:45:35 Asia/Jakarta] PHP Fatal error:  Call to undefined method CI_Session::userdate() in /home/k3477807/public_html/jobseeker/application/controllers/home.php on line 188
+[25-May-2015 18:45:44 Asia/Jakarta] PHP Fatal error:  Call to undefined method CI_Session::userdate() in /home/k3477807/public_html/jobseeker/application/controllers/home.php on line 188
+[25-May-2015 18:46:55 Asia/Jakarta] PHP Fatal error:  Call to undefined method CI_Session::userdate() in /home/k3477807/public_html/jobseeker/application/controllers/home.php on line 188
+[25-May-2015 19:03:19 Asia/Jakarta] PHP Fatal error:  Call to undefined method CI_Session::userdate() in /home/k3477807/public_html/jobseeker/application/controllers/home.php on line 188
+[25-May-2015 19:14:55 Asia/Jakarta] PHP Fatal error:  Call to undefined method CI_Session::userdate() in /home/k3477807/public_html/jobseeker/application/controllers/home.php on line 188
+[25-May-2015 19:25:53 Asia/Jakarta] PHP Fatal error:  Call to undefined method CI_Session::userdate() in /home/k3477807/public_html/jobseeker/application/controllers/home.php on line 188
+[25-May-2015 19:31:36 Asia/Jakarta] PHP Fatal error:  Call to undefined method CI_Session::userdate() in /home/k3477807/public_html/jobseeker/application/controllers/home.php on line 188
+[25-May-2015 19:43:00 Asia/Jakarta] PHP Fatal error:  Call to undefined method CI_Session::userdate() in /home/k3477807/public_html/jobseeker/application/controllers/home.php on line 188
+[25-May-2015 19:43:16 Asia/Jakarta] PHP Fatal error:  Call to undefined method CI_Session::userdate() in /home/k3477807/public_html/jobseeker/application/controllers/home.php on line 188
+[25-May-2015 20:01:40 Asia/Jakarta] PHP Fatal error:  Call to undefined method CI_Session::userdate() in /home/k3477807/public_html/jobseeker/application/controllers/home.php on line 188
+[25-May-2015 20:11:48 Asia/Jakarta] PHP Fatal error:  Call to undefined method CI_Session::userdate() in /home/k3477807/public_html/jobseeker/application/controllers/home.php on line 188
+[25-May-2015 20:19:55 Asia/Jakarta] PHP Fatal error:  Call to undefined method CI_Session::userdate() in /home/k3477807/public_html/jobseeker/application/controllers/home.php on line 188

@@ -1,0 +1,455 @@
+@import url(form.css);
+@import url(job.css);
+
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	margin: 0;
+	padding: 0;
+	font-family: "Arial";
+	font-size: 14px;
+        background:whitesmoke;
+}
+
+/*
+ *	WRAPPER
+ */
+.wrapper {
+	display: block;
+	width: 100%;
+}
+
+/*
+ *	COLOR
+ */
+.color1{background-color: #fff;}
+.color2{background-color: #0f5fb9;}
+.color3{background-color: #175080;}
+.color4{background-color: #ccc;}
+.color5{background-color: #003664;}
+.color6{background-color: #2777a9;}
+
+/*
+ *	HEADER
+ */
+div#header {
+	margin: 0 auto 0;
+	padding: 0;
+	width: 960px;
+	color: #fff;
+	position: relative;
+}
+div#logo {
+	margin: 15px 0 10px;
+	padding: 0;
+	display: inline-block;
+	width: 200px;
+}
+div#logo img{
+	margin: 0;
+	padding: 0;
+	max-width: 100%;
+	display: inline-block;
+}
+
+/*
+ *	NAVIGATION
+ */
+ul#navigation {
+	margin: 0;
+	padding: 15px 0 15px 10px;
+	display: inline-block;
+	position:absolute;
+	top: 30px;
+	right: 0;
+	width: auto;
+	float:right;	
+}
+ul#navigation > li {
+	display: inline-block;
+	float: left;
+}
+ul#navigation > li > a:link,
+ul#navigation > li > a:visited {
+	padding: 10px 15px;
+	display: inline-block;
+	text-decoration: none;
+	color: #333;
+	font-size: 15px;
+	transition: all 0.3s ease-in-out;
+}
+ul#navigation > li > a:hover,
+ul#navigation > li > a:focus {
+	color: #fff;
+	background-color: #555;
+}
+ul#navigation div {
+	padding: 0;
+	background-color: #555;
+	display: inline-block;
+	position:absolute;
+	top: 54px;
+	right: auto;
+	width: 200px;	
+	background-color: #555;
+	z-index: 999;	
+}
+ul#navigation ul {
+	margin: 0;
+	padding: 0;
+}
+ul#navigation ul li {
+	display: block;
+}
+ul#navigation ul li > a:link,
+ul#navigation ul li > a:visited {
+	padding: 10px 15px;
+	display: block;
+	text-decoration: none;
+	color: #fff;
+	font-size: 15px;
+	transition: all 0.3s ease-in-out;
+}
+ul#navigation ul li > a:hover {
+	color: #fff;
+	background-color: #333;
+}
+
+
+/*
+ *	NAVIGATION
+ */
+ul#top-nav {
+	margin: 0 auto 0;
+	padding: 0;
+	width: 920px;
+	position: relative;	
+}
+ul#top-nav > li {
+	margin: 0;
+	padding: 0;
+	display: inline-block;	
+}
+ul#top-nav > li > a:link,
+ul#top-nav > li > a:visited {
+	margin: 0;
+	padding: 15px 15px;
+	display: inline-block;
+	text-decoration: none;
+	color: #fff;
+	font-size: 15px;
+	transition: all 0.3s ease-in-out;
+}
+ul#top-nav > li > a:hover,
+ul#top-nav > li > a:focus {
+	color: #fff;
+	background-color: #156394;
+}
+
+
+/*
+ *	SEARCHING
+ */
+div#searching {
+	margin: 0 auto 0;
+	padding: 0;
+	width: 960px;
+	text-align: center;
+}
+form#searching {
+	margin: 0;
+	padding: 10px 0;
+	display: block;
+}
+form#searching input[type="text"] {
+	padding: 5px;
+	border: 1px solid #bbb;
+}
+form#searching select {
+	padding: 4px;
+	border: 1px solid #bbb;
+}
+form#searching input[type="submit"] {
+	padding: 4px 10px;
+	background-color: #ff9900;
+	border: 1px solid #ff6600;
+	color: #fff;
+	cursor: pointer;
+	transition: all 0.2s ease-in-out;
+}
+form#searching input[type="submit"]:hover {
+	background-color: #ff6600;
+}
+.w100{min-width:100px;}
+.w110{min-width:110px;}
+.w120{min-width:120px;}
+.w130{min-width:130px;}
+.w140{min-width:140px;}
+.w150{min-width:150px;}
+.w160{min-width:160px;}
+.w170{min-width:170px;}
+.w180{min-width:180px;}
+.w190{min-width:190px;}
+.w200{min-width:200px;}
+.w210{min-width:210px;}
+.w220{min-width:220px;}
+.w230{min-width:230px;}
+.w240{min-width:240px;}
+.w250{min-width:250px;}
+.w260{min-width:260px;}
+.w270{min-width:270px;}
+.w280{min-width:280px;}
+.w290{min-width:290px;}
+.w300{min-width:300px;}
+.w350{min-width:350px;}
+.w400{min-width:400px;}
+.w450{min-width:450px;}
+.w500{min-width:500px;}
+
+
+/*
+ *	BANNER
+ */
+div#banner {
+	margin: 10px auto 10px;
+	width: 920px;
+	position: relative;
+}
+
+div#banner > img {
+	max-width: 100%;
+}
+
+/*
+ *	PANEL
+ */
+div#panel { 
+	margin: 10px auto 50px;
+	width: 920px;
+	position: relative;
+	min-height: 450px;
+}
+div#menu {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 230px;
+}
+div#menu > h4 {
+	margin-bottom: 5px;
+	padding: 10px 0;
+	border-bottom: 1px solid #ccc;
+}
+ul#menu {
+	margin: 0;
+	padding: 0;
+	list-style-position: inside;
+	list-style-type: square;
+}
+ul#menu > li > a:link,
+ul#menu > li > a:visited {
+	padding: 5px 0;
+	display: inline-block;
+	color: #000;
+	text-decoration: none;
+}
+ul#menu > li > a:hover {
+	text-decoration: underline;
+}
+div#photo-proflie {
+	margin: 0;
+	padding: 0;
+	width: 98%;
+	text-align: center;
+}
+div#photo-proflie img {
+	margin: 0;
+	padding: 0;
+	border: 2px solid #555;
+	max-width: 170px;
+}
+
+div#content {
+	margin-left: 250px;
+	padding: 0 20px 15px;
+	border-left: 1px solid #ccc;
+	min-height: 500px;
+}
+div#content > h4 {
+	margin-bottom: 5px;
+	padding: 10px 0;
+	border-bottom: 1px solid #ccc;
+}
+div#content > h5 {
+	padding: 5px 0;
+}
+div#content p {
+	margin-bottom: 15px;
+	text-align: justify;
+}
+div#result-list {
+	padding: 5px 10px;
+	-webkit-column-count: 2; /* Chrome, Safari, Opera */
+    -moz-column-count: 2; /* Firefox */
+    column-count: 2;
+}
+div#result-list > ul {
+	list-style-position: inside;
+}
+div#result-list > ul > li > a:link,
+div#result-list > ul > li > a:visited {
+	margin: 0;
+	padding: 5px 0;
+	display: inline-block;
+	text-decoration: none;
+	color: #000;
+}
+div#result-list > ul > li > a:hover {
+	color: blue;
+}
+
+
+/*
+ *	COMMENTS LIST
+ */
+ul.comments {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	text-align: left;
+}
+ul.comments li {
+	margin: 0 -20px 0;
+	padding: 7px;
+	background-color: #eee;
+	border: 1px solid #ddd;
+}
+ul.comments li div {
+	margin: 0;
+	padding: 0;
+}
+ul.comments li div b{
+	margin: 0;
+	padding: 0;
+}
+/*
+ *	TABLE DETAIL
+ */
+table#detail {
+	width: 100%;
+}
+table#detail td {
+	padding: 5px;
+}
+
+/*
+ *	JOB TABLE
+ */
+table#job-table {
+	border-collapse: collapse;
+	border: 1px solid #ccc;
+	width: 100%;
+	font-size: 11px;
+}
+table#job-table th {
+	padding: 10px 0;
+	background-color: #ddd;
+}
+table#job-table td {
+	padding: 7px 7px;
+	vertical-align: middle;
+}
+table#job-table td a:link,
+table#job-table td a:visited {
+	text-decoration: none;
+	font-weight: bold;
+	color: blue;
+}
+
+
+/*
+ *	PACKAGE TABLE
+ */
+table#package-table {
+	width: 500px;
+	border: 1px solid #ccc;
+	border-collapse: collapse;
+}
+table#package-table th {
+	padding: 10px 0;
+	background-color: #ccc;
+}
+table#package-table td {
+	padding: 5px;
+	border: 1px solid #ccc;
+	text-align: center;
+	vertical-align: middle;
+}
+
+
+/*
+ *	VIEW PROFILE TABLE
+ */
+table#view-profile {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+}
+table#view-profile > tbody > tr > td {
+	vertical-align: top;
+}
+table#view-profile > tbody > tr > td h4 {
+	margin-bottom: 5px;
+	padding: 10px 0;
+	border-bottom: 1px solid #ccc;
+}
+table#view-profile > tbody > tr > td > div#left {
+	width: 230px;
+}
+table#view-profile > tbody > tr > td > div#right {	
+	margin: 0;
+	margin-left: 10px;
+	padding: 0 20px 15px;
+	border-left: 1px solid #ccc;
+	min-height: 500px;
+	width: 650px;
+}
+
+/*
+ *	PROFILE TABLE
+ */
+table.profile {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+}
+table.profile th {
+	padding: 10px 0 20px;
+	text-align: right;
+}
+table.profile td {
+	padding: 3px 0;
+	vertical-align: top;
+}
+table.profile td.label {
+	width: 180px;
+	color: #777;
+}
+
+
+
+/*
+ *	FOOTER
+ */
+div#footer {
+	margin: 0 auto 0;
+	padding: 0;
+	width: 960px;
+	color: #fff;
+	position: relative;
+}
+div#footer p {
+	padding: 15px 0;
+}

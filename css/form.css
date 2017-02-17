@@ -1,0 +1,69 @@
+div#content-form {
+	margin: 0 auto 0;
+	padding: 20px;
+	width: 700px;
+	border: 2px solid #ddd;
+         border-radius: 5px;
+          box-shadow: 10px 10px 5px #888888;
+}
+div#content-form h2 {
+	margin-bottom: 10px;
+	padding-bottom: 10px;
+	border-bottom: 1px solid #333;
+       
+}
+form.form-register {
+	margin: 0;
+	padding: 0;
+}
+form.form-register label {
+	padding: 5px 0;
+	display: inline-block;
+}
+form.form-register input[type="text"],
+form.form-register input[type="password"],
+form.form-register input[type="email"],
+form.form-register input[type="file"],
+form.form-register select {
+	margin: 5px 0;
+	padding: 5px;
+	border: 1px solid #ccc;
+}
+form.form-register textarea {
+	margin: 5px 0;
+	padding: 5px;
+	border: 1px solid #ccc;
+	vertical-align: top;
+	font-family: "Arial";
+	font-size: 13px;
+}
+
+div.form-footer {
+	margin-top: 10px;
+	padding-top: 10px;
+	border-top: 1px solid #333;
+}
+form.form-register input[type="submit"] {
+	padding: 5px 10px;
+	background-color: #ff9900;
+	border: 1px solid #ff6600;
+	color: #fff;
+	cursor: pointer;
+	transition: all 0.2s ease-in-out;
+}
+form.form-register input[type="submit"]:hover {
+	background-color: #ff6600;
+}
+
+.btn {
+	padding: 6px 10px;
+	background-color: #ff9900;
+	border: 1px solid #ff6600;
+	color: #fff;
+	cursor: pointer;
+	transition: all 0.2s ease-in-out;
+	text-decoration: none;
+}
+.btn:hover {
+	background-color: #ff6600;
+}

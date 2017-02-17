@@ -1,0 +1,33 @@
+h3.title {
+	font-family: "Arial";	
+}
+table {
+	font-family: "Arial";
+	font-size: 12px;
+}
+table.dataprint {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	border-collapse: collapse;
+}
+table.dataprint thead tr {
+	margin: 0;
+	padding: 0;
+	background-color: #64aad7;
+
+}
+table.dataprint thead tr th {
+	padding: 7px;
+	border: 1px solid #64aad7;
+	color: #000;
+}
+table.dataprint tbody td {
+	padding: 5px;
+	border: 1px solid #555;
+}
+p.info {
+	font-family: "Arial";
+	font-size: 12px;
+	font-weight: bold;
+}

@@ -1,0 +1,91 @@
+/*
+ *	JOB LIST
+ */
+ul#job-list {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+ul#job-list a:link,
+ul#job-list a:visited {
+	text-decoration: none;
+	color: #000;
+}
+ul#job-list a:hover {
+	color: blue;
+}
+div.job-desc {
+	margin: 10px 0;
+	padding: 10px;
+	border: 2px solid #ddd;
+	position: relative;
+}
+div.job-desc h2,
+div.job-desc h3,
+div.job-desc h5,
+div.job-desc h6 {
+	font-weight: normal;
+	margin-bottom: 5px;
+}
+div.job-desc p {
+	margin: 20px 0 0;
+	font-size: 12px;
+}
+img.icon {
+	margin-right: 5px;
+	max-height: 16px;
+	vertical-align: middle;
+}
+div.job-desc ul {
+	padding: 5px 20px 0;
+	font-size: 12px;
+}
+div.logo {
+	position: absolute;
+	top: 10px;
+	right: 10px;
+	max-width: 150px;
+	max-height: 40px;
+}
+div.logo img {
+	max-width: 100%;
+	max-height: 100%;
+}
+
+
+
+/*
+ *	VIEW JOB
+ */
+div#job-action {
+	padding: 5px 5px;
+	background-color: #eee;
+	display: block;
+	text-align: right;
+}
+div#view-job > table{
+	width: 100%;
+	table-layout: fixed;
+}
+div#view-job > table > tbody > tr > td {
+	padding: 0 10px;
+	vertical-align: top;
+}
+div#view-job h3 {
+	margin-bottom: 15px;
+	padding: 10px 0;
+	border-bottom: 1px solid #333;
+}
+div#view-job p {
+	margin-bottom: 10px;
+	text-align: justify;
+}
+div#view-job ul {
+	padding: 5px 10px;
+	list-style-position: inside;
+}
+div#detail {
+    -webkit-column-count: 2; /* Chrome, Safari, Opera */
+    -moz-column-count: 2; /* Firefox */
+    column-count: 2;
+} 

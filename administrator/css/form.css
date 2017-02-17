@@ -1,0 +1,75 @@
+/*
+ * DATA FORM
+ */
+form.data-form {
+	margin: 0;
+	padding: 0;
+	display: block;
+}
+form.data-form label {
+	margin: 0;
+	padding: 0 10px;
+	color: #555;
+	font-weight: normal;
+	display: inline-block;
+	vertical-align: top;
+}
+
+form.data-form input[type="text"],
+form.data-form input[type="password"],
+form.data-form input[type="email"],
+form.data-form input[type="file"],
+form.data-form select,
+form.data-form textarea {
+	margin: 0 0 10px;
+	padding: 5px;
+	display: inline-block;
+	border: 1px solid #ccc;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	vertical-align: top;
+}
+
+form.data-form input:focus,
+form.data-form select:focus,
+form.data-form textarea:focus {
+	border: 1px solid #099ff2;
+	box-shadow: 0 0 2px #099ff2;
+	transition: all 0.2s ease-in-out;
+}
+form.data-form input[type="submit"] {
+	margin-top: 10px;
+	margin-left: 10px;
+	padding: 3px 10px;
+	border: 1px solid #000ff2;
+	background-color: #099ff2;
+	cursor: pointer;
+}
+form.data-form input[type="submit"]:hover {
+	background-color: #000ff2;
+	color: #fff;
+}
+
+.top{vertical-align: top;}
+.w100{min-width:100px;}
+.w110{min-width:110px;}
+.w120{min-width:120px;}
+.w130{min-width:130px;}
+.w140{min-width:140px;}
+.w150{min-width:150px;}
+.w160{min-width:160px;}
+.w170{min-width:170px;}
+.w180{min-width:180px;}
+.w190{min-width:190px;}
+.w200{min-width:200px;}
+.w210{min-width:210px;}
+.w220{min-width:220px;}
+.w230{min-width:230px;}
+.w240{min-width:240px;}
+.w250{min-width:250px;}
+.w260{min-width:260px;}
+.w270{min-width:270px;}
+.w280{min-width:280px;}
+.w290{min-width:290px;}
+.w300{min-width:300px;}
